@@ -1,0 +1,3 @@
+/mnt/c/Users/johns/Desktop/CS-5300/compiler/bld/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/johns/Desktop/CS-5300/compiler/bld/CMakeFiles/cpsl.dir
+/mnt/c/Users/johns/Desktop/CS-5300/compiler/bld/CMakeFiles/edit_cache.dir
